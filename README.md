@@ -11,7 +11,7 @@ Oltre all'informatica, sono appassionato di **fotografia, fotografia sportiva, p
 ## 🛠️ Tecnologie e competenze
 
 **Frontend**  
-HTML5 · CSS3 · JavaScript · React · Vite
+HTML5 · CSS3 · JavaScript · React 
 
 **Backend**  
 Node.js · Express · Laravel · PHP · Python · Java
